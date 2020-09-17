@@ -2,8 +2,8 @@
 
 • Dataset of 42,000 Campaigns from May 2009 to July 2012  
 • Recommendations based on two key factors:  
-	\t• Success rate of campaigns  
-	\t• Average amount pledged  
+    • Success rate of campaigns  
+    • Average amount pledged  
 
 In short, the analysis of this dataset yields the following recommendations.
 ## 1) Keep Campaigns Short - 30 days or less

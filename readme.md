@@ -30,12 +30,16 @@ Games and Design categories offer the highest earning potential. These are highe
 ### 3) Set a Goal of $4-6k
 The goal for a campaign depends largely on the specific project's needs.  
 The goal of $4-6k is a safe bet that guarantees both  
-    • A high success rate of 57-65%
-    • A significant profit from the campaign ($5070-$7600)
-![Category Success](/images/success_rate_by_goal.png)![Category Success](/images/avg_pledged_by_goal.png)  
+    • A high success rate of 57-65%  
+    • A significant profit from the campaign ($5070-$7600)  
+![Category Success](/images/success_rate_by_goal.png)
+![Category Success](/images/avg_pledged_by_goal.png)  
 
 ### 4) Reach as Many People as Possible
 The success of a campaign grows rapidly as the number of backers increase.  
 ![Category Success](/images/success_rate_by_backers.png)  
     • A campaign with 20 backers has a 62% success rate  
     • 40 backers yields 87% success rate  
+More backers means more funds raised.  
+    • Pearson Correlation Coefficient: .974  
+![Category Success](/images/avg_pledged_by_backers.png)  
